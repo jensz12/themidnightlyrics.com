@@ -77,7 +77,7 @@
 						<div class="card-body">
 							<h1 class="display-1 text-center">The Midnight Lyrics bot</h1>
 							<div class="text-center">
-								<p>Lyrics from The Midnight songs, posted on social media</p>
+								<p>Lyrics from The Midnight songs, posted on social media.</p>
 								<h2 class="display-3 text-center">Find the bot here</h2>
 							</div>
 							<h3 class="text-center">
